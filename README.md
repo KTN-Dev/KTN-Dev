@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KTN-Dev
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Javascript and Vue.js
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on real life projects
 - 📫 Reach me at https://www.linkedin.com/in/kyvu-tran-2889a7108/ and of course Github!
 
