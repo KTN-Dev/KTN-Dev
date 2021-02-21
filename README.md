@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on real life projects
-- 📫 Reach me at https://www.linkedin.com/in/kyvu-tran-2889a7108/ and of course Github!
+- 📫 Reach me at https://www.linkedin.com/in/kyvu-tran-2889a7108/ and of course GitHub!
 
 <!---
 KTN-Dev/KTN-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
